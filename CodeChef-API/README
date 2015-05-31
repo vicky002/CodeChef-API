@@ -1,7 +1,10 @@
-  pyquora
-  =======
+  [Will be updated soon!]
+  ------------------------
+  
+  Unofficial CodeChef-API
+  ======================
 
-  A Python module to fetch and parse data from CodeChef.
+  This is a Python module to fetch and parse data from CodeChef.
 
   Installation
   ------------
@@ -21,5 +24,3 @@
 
   User statistics
   ~~~~~~~~~~~~~~~
-
-  ::
